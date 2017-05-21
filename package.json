@@ -1,11 +1,11 @@
 {
-  "name": "monk-plugin-debug",
-  "description": "A monk plugin to show debug logs",
+  "name": "monk-middleware-debug",
+  "description": "A monk middleware to show debug logs",
   "version": "0.2.0",
   "main": "index.js",
   "keywords": [
     "monk",
-    "plugin",
+    "middleware",
     "debug"
   ],
   "repository": {
