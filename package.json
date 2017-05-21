@@ -1,0 +1,23 @@
+{
+  "name": "monk-plugin-debug",
+  "description": "A monk plugin to show debug logs",
+  "version": "0.2.0",
+  "main": "index.js",
+  "keywords": [
+    "monk",
+    "plugin",
+    "debug"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Automattic/monk.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "*"
+  },
+	"peerDependencies": {
+		"monk": ">=5.0.0",
+		"mongodb": "*"
+	}
+}
